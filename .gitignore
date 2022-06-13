@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+bin
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
